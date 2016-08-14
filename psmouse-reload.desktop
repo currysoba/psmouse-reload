@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/psmouse-reload
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[ja]=psmouse-reload
+Name=psmouse-reload
+Comment[ja]=Touchpad Workarround
+Comment=Touchpad Workarround

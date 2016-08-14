@@ -1,0 +1,9 @@
+#!/bin/sh
+#synclient TouchpadOff=0
+synclient TapButton1=1
+synclient TapButton2=3
+synclient TapButton3=0
+synclient VertScrollDelta=-80
+synclient HorizScrollDelta=-80
+synclient PalmDetect=1
+synclient AreaTopEdge=300 AreaRightEdge=3500
